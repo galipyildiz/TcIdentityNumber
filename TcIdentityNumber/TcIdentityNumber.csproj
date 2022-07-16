@@ -4,6 +4,22 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Authors>galipyildiz</Authors>
+    <Description>Check TC Identity Number with algorithm or soap service.</Description>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageIcon>identityChecker.png</PackageIcon>
+    <RepositoryUrl>https://github.com/galipyildiz/TcIdentityNumber</RepositoryUrl>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\identityChecker.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
