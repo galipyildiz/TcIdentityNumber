@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcIdentityNumber", "TcIdentityNumber\TcIdentityNumber.csproj", "{127675BF-9928-4A73-8774-B387F7802DC0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcIdentityNumber.Tests", "TcIdentityNumber.Tests\TcIdentityNumber.Tests.csproj", "{BA751A34-BB58-4E57-AD02-39F8F3794E4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{127675BF-9928-4A73-8774-B387F7802DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{127675BF-9928-4A73-8774-B387F7802DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{127675BF-9928-4A73-8774-B387F7802DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA751A34-BB58-4E57-AD02-39F8F3794E4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA751A34-BB58-4E57-AD02-39F8F3794E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA751A34-BB58-4E57-AD02-39F8F3794E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA751A34-BB58-4E57-AD02-39F8F3794E4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
