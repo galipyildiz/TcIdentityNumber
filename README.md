@@ -17,7 +17,7 @@ Verify TC Identity Number the easiest way
     <br />
     ![](./assets/installnugetpackage.png)
     <br />
-    Select this package and install your project.
+    Select this package and install to your project.
 - Enjoy your verify identity number 
     - .Net 6.0 Console Application
     ```cs
