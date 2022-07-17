@@ -14,7 +14,9 @@ Verify TC Identity Number the easiest way
       Install-Package TcIdentityNumber -Version 1.0.0 
     ``` 
   - Nuget Package Solution
+    <br />
     ![](./assets/installnugetpackage.png)
+    <br />
     Select this package and install your project.
 - Enjoy your verify identity number 
     - .Net 6.0 Console Application
@@ -31,4 +33,4 @@ Verify TC Identity Number the easiest way
     False
     ```
 
-**Note:** If you are correct information, you can reach the correct results. :)
+**Note:** If you enter the correct information, you can get the correct results. :smile:
